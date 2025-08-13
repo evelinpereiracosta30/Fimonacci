@@ -3,8 +3,8 @@ int main()
 {
   int termo;
   int contador;
-  int  auxiliar1;
-  int auxiliar2;
+  int  auxiliar1=1;
+  int auxiliar2=2;
   
   for(contador=1; contador <=10; contador ++ ) {
     if(contador <=2) {
